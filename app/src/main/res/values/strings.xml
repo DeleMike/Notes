@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Feedback</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="notes_dot">notes_dot</string>
+    <string name="notes_date">Created: </string>
+    <string name="save">save</string>
+    <string name="details_hint">Notes</string>
+    <string name="title_hint">Enter Title</string>
+    <string name="menu_edit_str">edit</string>
+    <string name="nav_about_str">About</string>
+    <string name="nav_all_notes_str">All Notes</string>
+
+
+    <string name="switch_dark_mode">Dark Mode</string>
+    <string name="switch_summary">Changes the theme of app from Light Mode to Dark Mode</string>
+    <string name="settings_send_feedback">Send Feedback</string>
+    <string name="settings_send_feedback_summary">Send reports about Notes</string>
+    <string name="search_menu">Search</string>
+</resources>
